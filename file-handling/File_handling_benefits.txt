@@ -1,0 +1,4 @@
+Benefits of file handling:
+* Easy Management of Data
+* Avoid rewriting the script each time
+* Scripting knowledge not required for editing the files
